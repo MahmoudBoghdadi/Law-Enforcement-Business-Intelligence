@@ -205,4 +205,4 @@ The three predictive models demonstrate strong performance on crime analytics ta
 
 These models provide actionable intelligence for resource allocation, patrol deployment, and strategic planning. While not perfect, they significantly improve upon purely reactive or intuition-based approaches to law enforcement operations.
 
-The methodologies and code are directly applicable to Peel Regional Police data and operations, requiring only data format adjustments and parameter tuning for local conditions. The analytical framework transfers seamlessly across jurisdictions.
+The methodologies and code are directly applicable to law enforcment data and operations, requiring only data format adjustments and parameter tuning for local conditions. The analytical framework transfers seamlessly across jurisdictions.
